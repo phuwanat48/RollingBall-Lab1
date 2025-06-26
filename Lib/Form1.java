@@ -8,7 +8,7 @@ public class Form1 extends JFrame {
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setLocationRelativeTo(null);
         this.setVisible(true);
-        this.setResizable(false);
+        
     }
 
     
